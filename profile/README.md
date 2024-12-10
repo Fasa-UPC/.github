@@ -1,8 +1,11 @@
+<img src="banner.png">
+
 # 🌟 Fasa University Programming Committee
 ### 🚀 Let's Code the Future Together  
 
 Welcome to the **Programming Committee of Fasa University**!  
 This organization is a hub for collaboration, learning, and innovation in technology and programming.  
+<br>
 
 ---
 
@@ -12,6 +15,7 @@ We aim to enhance students' skills and execute creative projects.
 - Designing and improving university systems  
 - Developing innovative projects outside the university  
 - Building effective connections between academia and industry  
+<br>
 
 ---
 
@@ -22,6 +26,7 @@ We welcome all enthusiasts:
 - **Data Researchers and Analysts:** Analyze data and make smarter decisions for projects  
 - **Project Managers and Strategists:** Plan and guide teams toward success  
 - **Passionate Individuals Without Experience:** Learn and grow alongside experienced teams  
+<br>
 
 ---
 
@@ -32,6 +37,8 @@ We welcome all enthusiasts:
 4. Collaborate with our teams and gain experience.
 
 Explore and contribute to our projects in the [Repositories](https://github.com/orgs/Fasa-UPC/repositories) section.
+
+<br>
 
 ---
 
